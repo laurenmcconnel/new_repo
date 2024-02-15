@@ -1,6 +1,8 @@
 ---
 title: "Testing"
-output: html_document
+output: 
+  html_document: 
+    keep_md: true
 date: "2024-02-15"
 ---
 
